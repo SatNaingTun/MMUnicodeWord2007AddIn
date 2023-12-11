@@ -1,0 +1,12 @@
+C:\Users\Manager01\Documents\Visual Studio 2010\Projects\SNT_MMUnicode\SNT_MMUnicode\bin\Debug\SNT_MMUnicode.dll
+C:\Users\Manager01\Documents\Visual Studio 2010\Projects\SNT_MMUnicode\SNT_MMUnicode\bin\Debug\SNT_MMUnicode.pdb
+C:\Users\Manager01\Documents\Visual Studio 2010\Projects\SNT_MMUnicode\SNT_MMUnicode\bin\Debug\SNT_MMUnicode.dll.manifest
+C:\Users\Manager01\Documents\Visual Studio 2010\Projects\SNT_MMUnicode\SNT_MMUnicode\bin\Debug\SNT_MMUnicode.vsto
+C:\Users\Manager01\Documents\Visual Studio 2010\Projects\SNT_MMUnicode\SNT_MMUnicode\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Manager01\Documents\Visual Studio 2010\Projects\SNT_MMUnicode\SNT_MMUnicode\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\Manager01\Documents\Visual Studio 2010\Projects\SNT_MMUnicode\SNT_MMUnicode\obj\Debug\SNT_MMUnicode_Word2007.csprojResolveAssemblyReference.cache
+C:\Users\Manager01\Documents\Visual Studio 2010\Projects\SNT_MMUnicode\SNT_MMUnicode\obj\Debug\SNT_MMUnicode.Properties.Resources.resources
+C:\Users\Manager01\Documents\Visual Studio 2010\Projects\SNT_MMUnicode\SNT_MMUnicode\obj\Debug\SNT_MMUnicode.Ribbon1.resources
+C:\Users\Manager01\Documents\Visual Studio 2010\Projects\SNT_MMUnicode\SNT_MMUnicode\obj\Debug\SNT_MMUnicode_Word2007.csproj.GenerateResource.Cache
+C:\Users\Manager01\Documents\Visual Studio 2010\Projects\SNT_MMUnicode\SNT_MMUnicode\obj\Debug\SNT_MMUnicode.dll
+C:\Users\Manager01\Documents\Visual Studio 2010\Projects\SNT_MMUnicode\SNT_MMUnicode\obj\Debug\SNT_MMUnicode.pdb

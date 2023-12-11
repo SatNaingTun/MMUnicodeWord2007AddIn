@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SNT_MMUnicode_Word2007", "SNT_MMUnicode\SNT_MMUnicode_Word2007.csproj", "{211F64FB-870A-462A-B30F-B2E3082A482C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SNT_MMUnicode_Word2007_Setup", "SNT_MMUnicode_Word2007_Setup\SNT_MMUnicode_Word2007_Setup.vdproj", "{E9BAF800-90F8-4599-8B50-A7321B42DAC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{211F64FB-870A-462A-B30F-B2E3082A482C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{211F64FB-870A-462A-B30F-B2E3082A482C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{211F64FB-870A-462A-B30F-B2E3082A482C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{211F64FB-870A-462A-B30F-B2E3082A482C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9BAF800-90F8-4599-8B50-A7321B42DAC9}.Debug|Any CPU.ActiveCfg = Debug
+		{E9BAF800-90F8-4599-8B50-A7321B42DAC9}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
